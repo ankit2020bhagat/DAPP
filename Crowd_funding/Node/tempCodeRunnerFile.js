@@ -1,0 +1,1 @@
+ract=require('../build/contracts/Lottery.json');
